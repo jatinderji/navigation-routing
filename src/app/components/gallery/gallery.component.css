@@ -1,0 +1,8 @@
+.body {
+  min-height: 92vh;
+  background-color: rgb(198, 230, 248);
+  background: linear-gradient(to top, rgb(198, 230, 248), white);
+}
+.main {
+  padding: 1em;
+}
